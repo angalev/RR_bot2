@@ -1,0 +1,20 @@
+/tools/
+
+# Byte-compiled files
+__pycache__/
+*.pyc
+
+# Runtime logs
+/bot.log
+assets/config/bot.log
+
+# Runtime screenshots / debug dumps — these are live captures of the game
+# (can show account nickname, currency, other players' nicknames in co-op)
+# and get overwritten/created on every run, not curated reference assets.
+/current_screen.png
+/debug_ad_pve_detection.png
+/temp_ad_frame.png
+/ad_screenshot_counter.txt
+assets/screenshots/*
+assets/templates/icons/ad_viewer_marks/ad_frame_*.png
+assets/templates/icons/ad_viewer_marks/Screenshot_*.png

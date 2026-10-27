@@ -1,0 +1,21 @@
+{
+    "units": [
+        "engineer",
+        "summoner",
+        "harlequin",
+        "enchanted_sword",
+        "dryad"
+    ],
+    "floor": "6",
+    "green_card": true,
+    "golden_card": false,
+    "pve_type": "random",
+    "priorities": [
+        true,
+        false,
+        false,
+        true,
+        false
+    ],
+    "watch_ads": false
+}
